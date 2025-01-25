@@ -1,3 +1,5 @@
+# Projeto criado em curso da Digital Innovation One com intuíto de praticar o uso de prompts e análise de dados
+
 # Características
 - A empresa foca apenas em fabricação de consoles, deixando a distribuição e venda para terceiros
 - Os produtos são vendidos globalmente
